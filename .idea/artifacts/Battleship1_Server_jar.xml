@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Battleship1_Server:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Battleship1_Server_jar</output-path>
+    <root id="archive" name="Battleship1_Server.jar">
+      <element id="module-output" name="Battleship1_Server" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/gson-2.8.5.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
