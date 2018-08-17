@@ -1,0 +1,2 @@
+# Battleship1_Server
+I tested this code in our group repository and I deleted filed and added the files "MichaelClient.java" and "BattleshipGUI.java". When you run "Server.java" and Then "MichaelClient.java", my program should run. MichaelClient.java calls BattleshipGUI.java
